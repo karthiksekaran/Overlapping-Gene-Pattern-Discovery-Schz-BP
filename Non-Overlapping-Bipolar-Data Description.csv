@@ -1,0 +1,61 @@
+ID,adj.P.Val,P.Value,t,B,logFC,Gene.symbol,Gene.title
+207656_s_at,0.553,0.00002483,4.53,1.19588,1.153,ACOX1,acyl-CoA oxidase 1
+212769_at,0.577,0.0000259,4.51,1.16786,0.812,TLE3,transducin like enhancer of split 3
+212589_at,0.709,0.00003183,4.46,1.03098,0.327,RRAS2,related RAS viral (r-ras) oncogene homolog 2
+209698_at,1,0.00006211,4.27,0.58567,0.875,CCHCR1,coiled-coil alpha-helical rod protein 1
+215516_at,1,0.0001784,3.97,-0.11864,1.494,LAMB4,laminin subunit beta 4
+216457_s_at,1,0.00024425,-3.87,-0.32862,-0.387,SF3A1,splicing factor 3a subunit 1
+208893_s_at,1,0.00031376,-3.8,-0.49604,-1.341,DUSP6,dual specificity phosphatase 6
+219260_s_at,1,0.00034466,-3.77,-0.55884,-0.505,ELP5,elongator acetyltransferase complex subunit 5
+208894_at,1,0.00034532,-3.77,-0.5601,-0.762,HLA-DRA,"major histocompatibility complex, class II, DR alpha"
+206102_at,1,0.00035648,3.76,-0.58137,0.376,GINS1,GINS complex subunit 1
+219377_at,1,0.00037517,-3.74,-0.61554,-0.381,GAREM1,GRB2 associated regulator of MAPK1 subtype 1
+202608_s_at,1,0.0003761,-3.74,-0.61718,-0.873,NDST1,N-deacetylase and N-sulfotransferase 1
+213523_at,1,0.00039319,3.73,-0.64689,0.404,CCNE1,cyclin E1
+216375_s_at,1,0.00040276,-3.72,-0.66298,-0.433,ETV5,ETS variant 5
+209542_x_at,1,0.0004508,-3.69,-0.7383,-1.139,IGF1,insulin like growth factor 1
+221380_at,1,0.00049375,3.66,-0.79912,1.033,,
+209035_at,1,0.00056765,3.62,-0.89233,0.759,MDK,midkine (neurite growth-promoting factor 2)
+220335_x_at,1,0.00057761,3.61,-0.90396,0.339,CES3,carboxylesterase 3
+214785_at,1,0.00058285,3.61,-0.91,0.385,VPS13A,vacuolar protein sorting 13 homolog A
+201882_x_at,1,0.00059368,3.6,-0.92229,0.833,B4GALT1,"beta-1,4-galactosyltransferase 1"
+209821_at,1,0.00083057,3.5,-1.1466,0.666,IL33,interleukin 33
+AFFX-ThrX-5_at,1,0.00091454,3.47,-1.2109,1.038,,
+221249_s_at,1,0.00091566,3.47,-1.21172,0.245,FAM117A,family with sequence similarity 117 member A
+207172_s_at,1,0.00102223,-3.43,-1.2852,-0.504,CDH11,cadherin 11
+211966_at,1,0.00107983,3.42,-1.32179,0.444,COL4A2,collagen type IV alpha 2 chain
+214826_at,1,0.00108468,3.41,-1.32477,0.879,PDE12,phosphodiesterase 12
+215653_at,1,0.00108962,3.41,-1.3278,0.64,,
+218186_at,1,0.00110125,3.41,-1.33489,0.934,RAB25,"RAB25, member RAS oncogene family"
+220323_at,1,0.00115082,3.39,-1.36426,0.837,CNTD2,cyclin N-terminal domain containing 2
+205699_at,1,0.00123593,3.37,-1.41185,1.029,MAP2K6,mitogen-activated protein kinase kinase 6
+208538_at,1,0.00128338,3.36,-1.43698,0.909,ANP32C,acidic nuclear phosphoprotein 32 family member C
+217617_at,1,0.00139172,3.33,-1.49101,0.576,,
+220766_at,1,0.00140556,3.33,-1.4976,0.948,BTG4,BTG anti-proliferation factor 4
+209688_s_at,1,0.00140625,3.33,-1.49793,0.247,CCDC93,coiled-coil domain containing 93
+220082_at,1,0.00144377,3.32,-1.51548,0.446,PPP1R14D,protein phosphatase 1 regulatory inhibitor subunit 14D
+216498_at,1,0.00151295,3.31,-1.54667,1.082,,
+207571_x_at,1,0.00155804,-3.3,-1.56624,-0.51,THEMIS2,thymocyte selection associated family member 2
+219231_at,1,0.00160362,3.29,-1.58545,0.295,TGS1,trimethylguanosine synthase 1
+47530_at,1,0.0016081,-3.29,-1.58731,-0.294,TRMO,tRNA methyltransferase O
+207180_s_at,1,0.00160914,-3.29,-1.58774,-0.372,HTATIP2,HIV-1 Tat interactive protein 2
+202867_s_at,1,0.00175174,-3.26,-1.64429,-0.321,DNAJB12,DnaJ heat shock protein family (Hsp40) member B12
+206488_s_at,1,0.00180167,-3.25,-1.663,-0.96,CD36,CD36 molecule
+221581_s_at,1,0.00190384,-3.23,-1.69972,-0.671,LAT2,linker for activation of T-cells family member 2
+201363_s_at,1,0.00191431,-3.23,-1.70336,-0.319,IVNS1ABP,influenza virus NS1A binding protein
+216334_s_at,1,0.00199066,3.22,-1.72939,0.834,CYP2A7P1,cytochrome P450 family 2 subfamily A member 7 pseudogene 1
+215977_x_at,1,0.00202679,3.21,-1.74136,0.603,GK,glycerol kinase
+215943_at,1,0.00206452,3.2,-1.75363,0.934,KIAA1661,KIAA1661 protein
+216905_s_at,1,0.00208484,3.2,-1.76014,0.917,ST14,suppression of tumorigenicity 14
+205695_at,1,0.00214818,3.19,-1.78005,0.519,SDS,serine dehydratase
+214441_at,1,0.00214956,-3.19,-1.78048,-0.591,STX6,syntaxin 6
+210127_at,1,0.00222778,-3.18,-1.80424,-0.512,RAB6B,"RAB6B, member RAS oncogene family"
+204014_at,1,0.00229649,-3.17,-1.82444,-1.06,DUSP4,dual specificity phosphatase 4
+214686_at,1,0.00236051,3.16,-1.84272,0.276,ZNF266,zinc finger protein 266
+201354_s_at,1,0.00257911,3.13,-1.90157,0.3,BAZ2A,bromodomain adjacent to zinc finger domain 2A
+220876_at,1,0.00261638,-3.12,-1.9111,-0.864,,
+206721_at,1,0.00264138,3.12,-1.91741,0.284,CCDC181,coiled-coil domain containing 181
+217981_s_at,1,0.00267659,-3.12,-1.92621,-0.24,TIMM10B,translocase of inner mitochondrial membrane 10 homolog B (yeast)
+47105_at,1,0.00269729,3.11,-1.93132,0.319,DUS2,dihydrouridine synthase 2
+202414_at,1,0.00276933,3.11,-1.94882,0.324,ERCC5,"ERCC excision repair 5, endonuclease"
+213098_at,1,0.00277403,-3.11,-1.94995,-0.398,CNOT9,CCR4-NOT transcription complex subunit 9

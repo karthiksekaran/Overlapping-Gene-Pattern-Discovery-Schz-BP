@@ -1,0 +1,69 @@
+ID,adj.P.Val,P.Value,t,B,logFC,Gene.symbol,Gene.title
+206925_at,1,0.0000458,-4.35,0.605,-1.159,ST8SIA4,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4"
+203851_at,1,0.0000722,-4.22,0.315,-0.283,IGFBP6,insulin like growth factor binding protein 6
+220641_at,1,0.0001582,-4,-0.189,-0.923,NOX5,"NADPH oxidase, EF-hand calcium binding domain 5"
+209523_at,1,0.0001594,3.99,-0.193,0.386,TAF2,TATA-box binding protein associated factor 2
+204391_x_at,1,0.0002027,3.92,-0.348,0.295,TRIM24,tripartite motif containing 24
+210506_at,1,0.0002151,-3.91,-0.386,-0.729,FUT7,fucosyltransferase 7
+209735_at,1,0.0003848,-3.73,-0.759,-0.597,ABCG2,ATP binding cassette subfamily G member 2 (Junior blood group)
+201219_at,1,0.000427,3.7,-0.826,0.296,CTBP2,C-terminal binding protein 2
+218411_s_at,1,0.0004352,3.69,-0.838,0.413,MBIP,MAP3K12 binding inhibitory protein 1
+204880_at,1,0.0004664,-3.67,-0.883,-0.28,MGMT,O-6-methylguanine-DNA methyltransferase
+204846_at,1,0.0004827,3.66,-0.905,1.043,CP,ceruloplasmin (ferroxidase)
+221967_at,1,0.0005333,-3.63,-0.969,-0.322,NXPH4,neurexophilin 4
+215219_at,1,0.0005648,-3.61,-1.006,-0.772,DOPEY2,dopey family member 2
+202479_s_at,1,0.0005779,-3.61,-1.02,-0.359,TRIB2,tribbles pseudokinase 2
+205726_at,1,0.0006274,3.58,-1.073,0.28,DIAPH2,diaphanous related formin 2
+211904_x_at,1,0.0006718,-3.56,-1.117,-1.104,RAD52,"RAD52 homolog, DNA repair protein"
+214244_s_at,1,0.0006886,3.55,-1.133,0.983,ATP6V0E1,ATPase H+ transporting V0 subunit e1
+216373_at,1,0.0006979,-3.55,-1.141,-1.383,TAPT1,transmembrane anterior posterior transformation 1
+209959_at,1,0.0007089,-3.54,-1.151,-0.829,NR4A3,nuclear receptor subfamily 4 group A member 3
+218075_at,1,0.0007161,-3.54,-1.158,-0.509,AAAS,aladin WD repeat nucleoporin
+217536_x_at,1,0.0007243,3.54,-1.165,0.797,,
+214379_at,1,0.0007507,-3.53,-1.188,-0.437,HNRNPDL,heterogeneous nuclear ribonucleoprotein D like
+204863_s_at,1,0.0007816,3.51,-1.214,0.751,IL6ST,interleukin 6 signal transducer
+215814_at,1,0.0008521,-3.49,-1.27,-1.134,DST,dystonin
+204047_s_at,1,0.0008849,-3.47,-1.294,-0.511,PHACTR2,phosphatase and actin regulator 2
+209156_s_at,1,0.000905,-3.47,-1.308,-0.638,COL6A2,collagen type VI alpha 2 chain
+204557_s_at,1,0.0009387,3.46,-1.332,0.521,DZIP1,DAZ interacting zinc finger protein 1
+214283_at,1,0.0010211,-3.43,-1.386,-0.593,TMEM97,transmembrane protein 97
+211799_x_at,1,0.0010244,-3.43,-1.388,-0.477,HLA-C,"major histocompatibility complex, class I, C"
+222217_s_at,1,0.001064,3.42,-1.412,0.354,SLC27A3,solute carrier family 27 member 3
+201866_s_at,1,0.0010699,-3.41,-1.416,-0.33,NR3C1,nuclear receptor subfamily 3 group C member 1
+218454_at,1,0.0010953,3.41,-1.431,0.784,PLBD1,phospholipase B domain containing 1
+220433_at,1,0.0011377,3.39,-1.455,0.806,PRRG3,proline rich and Gla domain 3
+203168_at,1,0.0011463,3.39,-1.46,0.402,ATF6B,activating transcription factor 6 beta
+212238_at,1,0.0012051,-3.38,-1.492,-0.198,ASXL1,"additional sex combs like 1, transcriptional regulator"
+219731_at,1,0.0012342,-3.37,-1.507,-0.2,ENTPD1-AS1,ENTPD1 antisense RNA 1
+203676_at,1,0.0012937,-3.35,-1.537,-0.732,GNS,glucosamine (N-acetyl)-6-sulfatase
+208601_s_at,1,0.0013904,-3.33,-1.584,-1.032,TUBB1,tubulin beta 1 class VI
+213900_at,1,0.0013939,3.33,-1.585,0.403,FAM189A2,family with sequence similarity 189 member A2
+202688_at,1,0.0014078,-3.33,-1.592,-0.64,TNFSF10,tumor necrosis factor superfamily member 10
+222273_at,1,0.0014685,3.31,-1.619,0.355,PAPOLG,poly(A) polymerase gamma
+211794_at,1,0.0014878,-3.31,-1.627,-0.685,FYB,FYN binding protein
+221966_at,1,0.0014981,-3.31,-1.631,-0.715,GPR137,G protein-coupled receptor 137
+219869_s_at,1,0.0015524,-3.29,-1.654,-0.376,SLC39A8,solute carrier family 39 member 8
+219324_at,1,0.0015735,-3.29,-1.663,-0.206,NOL12,nucleolar protein 12
+214565_s_at,1,0.0015886,-3.29,-1.669,-0.717,SMR3A///SMR3B,submaxillary gland androgen regulated protein 3A///submaxillary gland androgen regulated protein 3B
+220418_at,1,0.0016,-3.28,-1.674,-0.842,UBASH3A,ubiquitin associated and SH3 domain containing A
+203874_s_at,1,0.0016508,3.27,-1.694,0.236,SMARCA1,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 1"
+202489_s_at,1,0.0017603,3.25,-1.735,0.934,FXYD3,FXYD domain containing ion transport regulator 3
+216652_s_at,1,0.0019757,-3.22,-1.809,-0.29,DR1,down-regulator of transcription 1
+213680_at,1,0.0020085,3.21,-1.819,0.612,KRT6B,keratin 6B
+207757_at,1,0.0020229,3.21,-1.824,0.501,ZFP2,ZFP2 zinc finger protein
+215663_at,1,0.0021143,-3.19,-1.852,-1.081,MBNL1,muscleblind like splicing regulator 1
+217166_at,1,0.0021631,3.19,-1.866,0.559,,
+219530_at,1,0.0022199,3.18,-1.883,0.224,PALB2,partner and localizer of BRCA2
+210210_at,1,0.0022289,3.18,-1.886,0.318,MPZL1,myelin protein zero like 1
+209015_s_at,1,0.0024558,-3.14,-1.948,-0.388,DNAJB6,DnaJ heat shock protein family (Hsp40) member B6
+217863_at,1,0.0024812,3.14,-1.954,0.363,PIAS1,protein inhibitor of activated STAT 1
+217380_s_at,1,0.0025208,3.13,-1.964,0.805,ADD3-AS1,ADD3 antisense RNA 1
+207899_at,1,0.0025675,-3.13,-1.976,-0.652,GIP,gastric inhibitory polypeptide
+217961_at,1,0.0026056,3.12,-1.985,0.195,SLC25A38,solute carrier family 25 member 38
+221715_at,1,0.0026072,-3.12,-1.986,-0.825,,
+206989_s_at,1,0.0026314,3.12,-1.992,0.28,SCAF11,SR-related CTD associated factor 11
+220622_at,1,0.0026567,3.12,-1.998,0.81,LRRC31,leucine rich repeat containing 31
+209788_s_at,1,0.0026838,3.11,-2.004,0.633,ERAP1,endoplasmic reticulum aminopeptidase 1
+208245_at,1,0.0027536,3.1,-2.021,1.081,RAB9BP1,"RAB9B, member RAS oncogene family pseudogene 1"
+219699_at,1,0.0029495,-3.08,-2.065,-0.683,LGI2,leucine rich repeat LGI family member 2
+52741_at,1,0.0032282,-3.05,-2.122,-0.271,TRMT61A,tRNA methyltransferase 61A
